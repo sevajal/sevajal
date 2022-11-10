@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sevajal (Sebastian Carvajal), a software developer with additional experience and studies in communication.
 - 👀 I’m interested in working with organizations with purpose.
-- 🌱 I’m currently learning C, Python, SQL, HTML, JS, CSS and more.
+- 🌱 I’m currently learning C, Python, Flask, Django, SQL, HTML, JS, CSS and more.
 - 💞️ I’m looking to collaborate on projects that will help to create a better world for all. 
 - 📫 You can reach me at sevajal@yahoo.com.
 
